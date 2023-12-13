@@ -1,0 +1,15 @@
+body{
+    background-color: black;
+    margin: 0;
+}
+p{
+    color: #FFFFFF;
+    position: absolute;
+    top: 195px;
+    left: 391px;
+    text-align: center;
+}
+.img3{
+    width: 421px;
+    z-index: 2;
+}
