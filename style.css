@@ -1,6 +1,7 @@
 body{
     background-color: black;
     margin: 0;
+   
 }
 p{
     color: #FFFFFF;
@@ -8,8 +9,11 @@ p{
     top: 195px;
     left: 391px;
     text-align: center;
+    z-index: 2;
 }
 .img3{
     width: 421px;
-    z-index: 2;
+}
+.img2{
+    z-index: 3;
 }
